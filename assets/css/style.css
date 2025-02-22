@@ -1336,7 +1336,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
 
   #projects .cards {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 4rem;
   }
 
